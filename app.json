@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ReactNative30Days",
-    "slug": "ReactNative30Days",
+    "name": "armshare",
+    "slug": "react30days",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
